@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2a5b21c2.chunk.css",
+    "main.js": "/portfolio/static/js/main.cc45bc74.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cc45bc74.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.3f396600.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3f396600.js.map",
+    "static/js/2.ecc005df.chunk.js": "/portfolio/static/js/2.ecc005df.chunk.js",
+    "static/js/2.ecc005df.chunk.js.map": "/portfolio/static/js/2.ecc005df.chunk.js.map",
+    "static/js/3.c7c973ac.chunk.js": "/portfolio/static/js/3.c7c973ac.chunk.js",
+    "static/js/3.c7c973ac.chunk.js.map": "/portfolio/static/js/3.c7c973ac.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.2a5b21c2.chunk.css.map": "/portfolio/static/css/main.2a5b21c2.chunk.css.map",
+    "static/js/2.ecc005df.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ecc005df.chunk.js.LICENSE.txt",
+    "static/media/HTML5.9f38da33.png": "/portfolio/static/media/HTML5.9f38da33.png",
+    "static/media/NodeJS.c2e22c63.png": "/portfolio/static/media/NodeJS.c2e22c63.png",
+    "static/media/expressjslogo.bd60c4de.png": "/portfolio/static/media/expressjslogo.bd60c4de.png",
+    "static/media/github.95ad9234.svg": "/portfolio/static/media/github.95ad9234.svg",
+    "static/media/heroku.73be03b3.svg": "/portfolio/static/media/heroku.73be03b3.svg",
+    "static/media/javascript.5648ae0a.png": "/portfolio/static/media/javascript.5648ae0a.png",
+    "static/media/mongodb.c5c16a70.png": "/portfolio/static/media/mongodb.c5c16a70.png",
+    "static/media/react.f431c7f4.svg": "/portfolio/static/media/react.f431c7f4.svg",
+    "static/media/redux.71eb13e2.svg": "/portfolio/static/media/redux.71eb13e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f396600.js",
+    "static/js/2.ecc005df.chunk.js",
+    "static/css/main.2a5b21c2.chunk.css",
+    "static/js/main.cc45bc74.chunk.js"
+  ]
+}
